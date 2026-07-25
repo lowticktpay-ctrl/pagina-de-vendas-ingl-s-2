@@ -1,0 +1,6 @@
+{
+  "name": "Inglês Divertido Kids",
+  "description": "Mais de 280 atividades e dinâmicas de inglês para o 1º ao 9º ano.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
